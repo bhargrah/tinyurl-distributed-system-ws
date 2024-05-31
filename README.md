@@ -2,7 +2,7 @@
 Implementation of TinyURL system using Java and other distributed paradigm
 
 
-## What we Will Learn 
+## What we will learn 
 -  Look at the concepts of distrIbuted systems
 -  Understand synchronous and asynchronous communication patterns
 -  Study service meshes and Idempotent service design
